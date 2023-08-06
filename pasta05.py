@@ -1,0 +1,1 @@
+print("mentira, proximo jogo do lá assistindo")
